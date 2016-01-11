@@ -12,6 +12,7 @@ namespace BranchStrategy
     {
         public void Configuration(IAppBuilder app)
         {
+            // making a change here to develop branch!
             ConfigureAuth(app);
         }
     }
